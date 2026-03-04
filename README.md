@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arnav shelke</h1>
-<h3 align="center">A passionate data science student</h3>
+<h3 align="center">A passionate computer science student</h3>
 
-- 🔭 I’m currently working on **Algotrade and fintech**
+- 🔭 I’m currently working on **Algotrade and fintech projects**
 
-- 🌱 I’m currently learning **Jave python data-science**
+- 🌱 I’m currently learning **Jave python and database**
 
 - 💬 Ask me about **My journey**
 
