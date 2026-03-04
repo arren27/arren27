@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnav shelke</h1>
 <h3 align="center">A passionate data science student</h3>
 
-- 🔭 I’m currently working on **Algotrade**
+- 🔭 I’m currently working on **Algotrade and fintech**
 
 - 🌱 I’m currently learning **Jave python data-science**
 
